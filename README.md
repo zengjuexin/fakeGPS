@@ -7,6 +7,7 @@
 ![Image](/souce/1.png)
 
 修改.gpx文件中的经纬度坐标，这个坐标采用的是WGS-84，高德地图用的是GCJ-02是火星坐标，需要转成WGS-84才能使用。
+[高德坐标查询地址](https://lbs.amap.com/console/show/picker)
 
 最后选择设备运行，你就能坐在家里环游世界了。
 
