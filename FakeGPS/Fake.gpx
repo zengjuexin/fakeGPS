@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+    creator="GMapToGPX 6.4j - http://www.elsewhere.org/GMapToGPX/"
+    xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    
+    <!--
+     Provide one or more waypoints containing a latitude/longitude pair. If you provide one
+     waypoint, Xcode will simulate that specific location. If you provide multiple waypoints,
+     Xcode will simulate a route visiting each waypoint.
+     -->
+    
+    
+<!-- 公司坐标   -->
+    <wpt lon="121.429200" lat="31.308617">
+<!--梅花村-->
+<!--    <wpt lon="121.520095" lat="31.303883">-->
+    </wpt>
+
+</gpx>
