@@ -53,7 +53,7 @@
 //    https://lbs.amap.com/console/show/picker  //高德地图坐标查询
 //    http://api.map.baidu.com/lbsapi/getpoint/index.html  //百度坐标查询
     //高德地图标准转世界地图标准
-    CLLocationCoordinate2D coordinate = CLLocationCoordinate2DMake(31.301823, 121.524446);
+    CLLocationCoordinate2D coordinate = CLLocationCoordinate2DMake(31.246016, 121.510002);
     coordinate = [JXLocationConverter gcj02ToWgs84:coordinate];
     NSLog(@"longitude = %f, latitude = %f", coordinate.longitude, coordinate.latitude);
 }
