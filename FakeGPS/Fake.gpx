@@ -11,11 +11,8 @@
      Xcode will simulate a route visiting each waypoint.
      -->
     
-    
-<!-- 公司坐标   -->
-    <wpt lon="121.429200" lat="31.308617">
-<!--梅花村-->
-<!--    <wpt lon="121.520095" lat="31.303883">-->
+
+    <wpt lon="121.520095" lat="31.505100">
     </wpt>
 
 </gpx>
